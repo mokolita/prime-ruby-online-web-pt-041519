@@ -1,10 +1,3 @@
-def prime?(int)
- (2...num).each do |factor|
-   if (n)
-
-end 
-
-
 def prime?(num)
   # check if num is less than 2.
   false if num < 2
