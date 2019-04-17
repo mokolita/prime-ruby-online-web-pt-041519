@@ -1,4 +1,4 @@
 def prime?(int)
-
+ 
 
 end 
